@@ -55,10 +55,6 @@ The core engine that drives the game logic, including updating the game state an
 4. Avoid colliding with the walls and the snake's own body.
 5. The game ends if the snake collides with itself or the boundaries.
 
-## Screenshots
-Add screenshots of the game here to give users a visual understanding of the game.
-![image](https://github.com/Anandhaselavam/java/assets/92384226/7ca805d5-9be9-4407-8581-1586cb73c7ec)
-
 ## Future Enhancements
 - Add different levels with increasing difficulty.
 - Implement a scoring system.
